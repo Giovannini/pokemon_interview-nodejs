@@ -1,0 +1,7 @@
+# NPM/Lerna build
+node_modules/
+lib/
+npm-debug.log
+
+# Mac
+.DS_Store
